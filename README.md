@@ -23,7 +23,6 @@ If you have any question or something, feel free to reach out me anytime via tel
 Telegram: [@andersn0093](https://t.me/andersn0093) <br>
 
 [![Run on Repl.it](https://replit.com/badge/github/sendaifun/solana-agent-kit)](https://replit.com/@sendaifun/Solana-Agent-Kit)
-> Replit template created by [Arpit Singh](https://github.com/The-x-35)
 
 ## 🔧 Core Blockchain Features
 
@@ -560,17 +559,6 @@ The toolkit relies on several key Solana and Metaplex libraries:
 - @metaplex-foundation/umi
 - @lightprotocol/compressed-token
 - @lightprotocol/stateless.js
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to contribute to this project.
-
-## Contributors
-
-<a href="https://github.com/sendaifun/solana-agent-kit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sendaifun/solana-agent-kit" />
-</a>
 
 ## Star History
 
